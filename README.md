@@ -2,7 +2,7 @@
 - 👀 eyes
 - 🌱 what
 - 💞️ please stay away
-- 📫 no don't try to contact me (PolyBit#1610 is my discord)
+- 📫 no don't try to contact me (polybit is my discord)
 
 <!---
 Poly2it/Poly2it is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
